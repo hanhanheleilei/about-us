@@ -5,8 +5,8 @@
 
 /* 仅演示参考 */
 body {
-  background-color: #7e71f3;
-  background-image: linear-gradient(147deg, #7e71f3 0%, #8bb5f3 74%);
+  background-color: #ffffff;
+  background-image: linear-gradient(147deg, #ffffff 0%, #8bb5f3 74%);
   min-height: 100vh;
   font-family: "Fira Sans", sans-serif;
   display: flex;
